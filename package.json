@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@angular/cli": "^19.0.4",
+    "jasmine-core": "^5.5.0",
+    "karma": "^6.4.4",
+    "karma-chrome-launcher": "^3.2.0",
+    "karma-cli": "^2.0.0",
+    "karma-coverage": "^2.2.1",
+    "karma-jasmine": "^5.1.0"
+  },
+  "scripts": {
+    "start": "ng serve",
+    "test": "karma start"
+  },
+  "dependencies": {
+    "@angular/platform-browser-dynamic": "^19.0.3",
+    "@angular/router": "^19.0.3"
+  }
+}
